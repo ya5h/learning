@@ -1,4 +1,4 @@
-header changed in b1
+header changed in b2
 file2 on b1
 
 something added in betn
@@ -17,6 +17,11 @@ doing some work in b1...
 
 did something more in b1
 
+<
 working carried on master...
-lots of work goingon on master
+lots of work goingon on mast
+
+doing something in b2
+work is goin gud in b2
+
 
